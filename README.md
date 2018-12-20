@@ -1,8 +1,10 @@
 # Project 2: Continuous Control
 
-### Introduction
+### Random Agents
 
 ![alt text](media/robotarm_random.gif "Random Agents")
+
+### Trained Agents with DDPG
 
 ![alt text](media/robotarm_solved.gif "Solved Agents")
 
